@@ -35,3 +35,5 @@ const eightBallPrediction = () => {
 }
 console.log(`${userName} has asked - ${questionAsked}?`);
 console.log(`Prediction : ${eightBallPrediction ('')}`)
+//The Magic 8 Ball is a plastic sphere, made to look like an oversized eight ball , that is used for fortune-telling or seeking advice.
+ Usually ‎‎Yes/no questions...
