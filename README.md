@@ -1,3 +1,3 @@
 # Hi, I'm Timmy and i am going to be describing the programs on this repo...
 # The "Temperature Converter" program converts a particular temperature in Kelvin(The International Standard unit for temperature) to degrees Celsius(the common °C) and then convert the temperature value to Farenheit.
-#The "Magic Eight Ball" generates a random number, multiplies it by eight and then rounds it down to the nearest integer to get a number between 0(inclusive) and 8(inclusive). Each of the numbers generated prints a statement to the console. These sentences represent answers to a question asked
+The "Magic Eight Ball" generates a random number, multiplies it by 8 and then rounds it down to the nearest integer to get a number between 0(inclusive) and 8(inclusive). Each of the numbers generated prints a statement to the console. These sentences represent answers to a question asked by the user.
