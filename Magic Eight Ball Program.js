@@ -1,6 +1,6 @@
 const randomNumber = Math.floor(Math.random() * 8)
-const userName = 'Dami'.toUpperCase
-let questionAsked = 'Will you be rich'
+const userName = 'Timmy'.toUpperCase
+let questionAsked = 'Question'
 const eightBallPrediction = () => {
   switch (randomNumber) {
     case 0 : 
