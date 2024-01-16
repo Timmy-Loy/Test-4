@@ -1,7 +1,7 @@
 let raceNumber = Math.floor(Math.random() * 1000);
 let registeredEarly = true;
 const age = 15;
-if (age > 18 && registeredEarly === true) { 
+if (age > 18) { 
   raceNumber += 1000;
 }
 if (age > 18 && registeredEarly === true) {
