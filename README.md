@@ -1,6 +1,6 @@
 # The "Temperature Converter" 
 This program converts a particular temperature in Kelvin(The International Standard unit for temperature) to degrees Celsius(the common °C) and then convert the temperature value to Farenheit.
 # The "Magic Eight Ball" 
-This program generates a random number, multiplies it by 8 and then rounds it down to the nearest integer to produce a whole number between 0(inclusive) and 8(inclusive). Each of the numbers generated prints a statement to the console. These sentences represent answers to a question asked by the user.
+This program generates a random number, multiplies it by 8 and then rounds it down to the nearest integer to produce a whole number between 0(inclusive) and 8(inclusive). Each of the numbers generated prints a sentence to the console. These sentences represent answers to a question asked by the user.
 # The "Race Number Generator" 
-This program also generates a random number but this time, the number gets multiplied by 1000 
+This program also generates a random number but this time, the number gets multiplied by 1000. There are a few conditional statements : If the racer is above 18 yrs, another 1000 is added to the random number making their race number range from 1000-2000. Else the number remains the same;If the racer has registered early and is above 18 yrs,they will race at 9:30am.;If the racer has registered late and is above 18yrs, they will race at 11:00am;If the racer is below 18yrs, regardless of registration time, they will race at 12:00pm. Note that a statement wasn't made for if the racer is exactly 18yrs old. Which is what the last else() statement represents....
